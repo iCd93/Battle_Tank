@@ -1,0 +1,327 @@
+﻿Log file open, 09/15/17 18:37:21
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: BattleTank
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(41510725) SRandInit(41510725).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180002
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.15-16.37.22:798][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.15-16.37.22:798][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.15-16.37.22:807][  0]LogInit: Computer: DESKTOP-L5LS488
+[2017.09.15-16.37.22:807][  0]LogInit: User: nacho
+[2017.09.15-16.37.22:807][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.15-16.37.22:807][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2017.09.15-16.37.22:807][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.09.15-16.37.22:807][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.15-16.37.22:807][  0]LogMemory: Process Physical Memory: 278.14 MB used, 278.14 MB peak
+[2017.09.15-16.37.22:807][  0]LogMemory: Process Virtual Memory: 274.21 MB used, 274.21 MB peak
+[2017.09.15-16.37.22:807][  0]LogMemory: Physical Memory: 7754.29 MB used,  8525.24 MB free, 16279.53 MB total
+[2017.09.15-16.37.22:807][  0]LogMemory: Virtual Memory: 668.90 MB used,  8525.24 MB free, 134217728.00 MB total
+[2017.09.15-16.37.22:997][  0]LogInit: Using OS detected language (es-ES).
+[2017.09.15-16.37.22:997][  0]LogInit: Using OS detected locale (es-ES).
+[2017.09.15-16.37.23:001][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2017.09.15-16.37.23:448][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.15-16.37.23:477][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2017.09.15-16.37.23:477][  0]LogD3D11RHI:       2018/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.15-16.37.23:483][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.09.15-16.37.23:483][  0]LogD3D11RHI:       128/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.09.15-16.37.23:484][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.15-16.37.23:484][  0]LogD3D11RHI:       0/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.15-16.37.23:484][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.15-16.37.23:490][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.15-16.37.23:490][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2017.09.15-16.37.23:490][  0]LogWindows: EnumDisplayDevices:
+[2017.09.15-16.37.23:491][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.09.15-16.37.23:491][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.09.15-16.37.23:491][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.09.15-16.37.23:491][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.09.15-16.37.23:491][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2017.09.15-16.37.23:491][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.09.15-16.37.23:491][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.09.15-16.37.23:491][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.15-16.37.23:508][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.15-16.37.23:520][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.15-16.37.23:521][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (E:/proyectos/Battle_tank/BattleTank/Intermediate/Shaders/WorkingDirectory/5664/).
+[2017.09.15-16.37.23:521][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nacho/AppData/Local/Temp/UnrealShaderWorkingDir/2C88FCD9491A521D60E02EAF1B92F6EB/'.
+[2017.09.15-16.37.23:521][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.15-16.37.24:491][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.15-16.37.24:547][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.15-16.37.24:610][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.15-16.37.24:665][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.15-16.37.24:723][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.15-16.37.24:780][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.15-16.37.24:836][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.15-16.37.24:893][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.15-16.37.24:944][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.15-16.37.24:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.15-16.37.25:054][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.15-16.37.25:109][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.15-16.37.25:165][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.15-16.37.25:221][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.15-16.37.25:275][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.15-16.37.25:381][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.15-16.37.25:381][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.15-16.37.25:429][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.15-16.37.25:535][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.15-16.37.25:580][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.15-16.37.25:637][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.15-16.37.25:694][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.15-16.37.25:756][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.15-16.37.25:819][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.15-16.37.25:819][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.15-16.37.26:413][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.15-16.37.26:521][  0]LogDerivedDataCache: Loaded boot cache 0.11s 93MB C:/Users/nacho/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.15-16.37.26:521][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nacho/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.15-16.37.26:521][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/proyectos/Battle_tank/BattleTank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.15-16.37.26:521][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.15-16.37.26:521][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/proyectos/Battle_tank/BattleTank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.15-16.37.26:521][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.15-16.37.26:539][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.15-16.37.26:552][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nacho/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.15-16.37.26:563][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.15-16.37.26:564][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.15-16.37.26:564][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.15-16.37.26:564][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.15-16.37.26:872][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2017.09.15-16.37.27:006][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.15-16.37.27:467][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.15-16.37.27:522][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.15-16.37.27:522][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.15-16.37.27:522][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.15-16.37.27:522][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.15-16.37.27:522][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.15-16.37.27:533][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.15-16.37.28:066][  0]LogNetVersion: BattleTank , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 245269811)
+[2017.09.15-16.37.28:333][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.048398 seconds
+[2017.09.15-16.37.28:342][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.15-16.37.28:342][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.09.15-16.37.28:342][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.15-16.37.28:430][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.15-16.37.31:740][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.15-16.37.31:803][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.15-16.37.32:643][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.15-16.37.33:143][  0]SourceControl: El control de código fuente está desactivado
+[2017.09.15-16.37.33:144][  0]SourceControl: El control de código fuente está desactivado
+[2017.09.15-16.37.33:208][  0]SourceControl: El control de código fuente está desactivado
+[2017.09.15-16.37.33:265][  0]SourceControl: El control de código fuente está desactivado
+[2017.09.15-16.37.34:037][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.15-16.37.34:338][  0]LogOcInput: OculusInput pre-init called
+[2017.09.15-16.37.34:633][  0]LogEngine: Initializing Engine...
+[2017.09.15-16.37.34:635][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.15-16.37.34:880][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.15-16.37.34:880][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.15-16.37.35:044][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.15-16.37.35:052][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.15-16.37.35:137][  0]LogInit: FAudioDevice initialized.
+[2017.09.15-16.37.35:224][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/nacho/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.15-16.37.35:241][  0]LogInit: Texture streaming: Enabled
+[2017.09.15-16.37.35:378][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.15-16.37.35:642][  0]LogInit: Transaction tracking system initialized
+[2017.09.15-16.37.36:063][  0]BlueprintLog: New page: Cargar el editor
+[2017.09.15-16.37.37:589][  0]LocalizationService: Localization service is disabled
+[2017.09.15-16.37.38:656][  0]LogConsoleResponse: Display: 
+[2017.09.15-16.37.39:014][  0]LogFileCache: Scanning file cache for directory 'E:/proyectos/Battle_tank/BattleTank/Content/' took 0.01s
+[2017.09.15-16.37.39:014][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.15-16.37.39:014][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.15-16.37.39:014][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.15-16.37.40:698][  0]SourceControl: El control de código fuente está desactivado
+[2017.09.15-16.37.40:699][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.15-16.37.40:699][  0]LightingResults: New page: Diseñar la iluminación
+[2017.09.15-16.37.40:772][  0]MapCheck: New page: Revisión del mapa
+[2017.09.15-16.37.40:772][  0]LightingResults: New page: Diseñar la iluminación
+[2017.09.15-16.37.41:039][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.09.15-16.37.41:045][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.15-16.37.41:059][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.15-16.37.41:111][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51,798ms to complete.
+[2017.09.15-16.37.41:111][  0]LogFileHelpers: Loading map 'Template_Default' took 0.413
+[2017.09.15-16.37.41:252][  0]LogCollectionManager: Loaded 0 collections in 0.001448 seconds
+[2017.09.15-16.37.41:342][  0]LogFileCache: Scanning file cache for directory 'E:/proyectos/Battle_tank/BattleTank/Saved/Collections/' took 0.01s
+[2017.09.15-16.37.41:342][  0]LogFileCache: Scanning file cache for directory 'E:/proyectos/Battle_tank/BattleTank/Content/Developers/nacho/Collections/' took 0.01s
+[2017.09.15-16.37.41:342][  0]LogFileCache: Scanning file cache for directory 'E:/proyectos/Battle_tank/BattleTank/Content/Collections/' took 0.01s
+[2017.09.15-16.37.41:342][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.09.15-16.37.41:356][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2387 classes and 502 folders.
+[2017.09.15-16.37.41:439][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2017.09.15-16.37.41:482][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.09.15-16.37.41:531][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2017.09.15-16.37.41:553][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.15-16.37.41:556][  0]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.15-16.37.41:562][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.15-16.37.41:673][  0]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:1).
+[2017.09.15-16.37.41:849][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.09.15-16.37.41:850][  0]LogLoad: (Engine Initialization) Total time: 21.08 seconds
+[2017.09.15-16.37.41:850][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.15-16.37.41:850][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.15-16.37.42:210][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.15-16.37.42:532][  1]LogAssetRegistry: Asset discovery search completed in 15.6817 seconds
+[2017.09.15-16.37.42:534][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.09.15-16.37.42:534][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2017.09.15-16.40.45:965][399]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.15-16.40.46:458][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround" FILE="E:/proyectos/Battle_tank/BattleTank/Content/BattleGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.15-16.40.46:505][399]LogSavePackage: Save=29.56ms
+[2017.09.15-16.40.46:505][399]LogSavePackage: Moving 'E:/proyectos/Battle_tank/BattleTank/Saved/BattleGround57AF6A094D7EA2C2C0799CBBCC1D3157.tmp' to 'E:/proyectos/Battle_tank/BattleTank/Content/BattleGround.umap'
+[2017.09.15-16.40.46:505][399]LogSavePackage: Display: Finished SavePackage E:/proyectos/Battle_tank/BattleTank/Content/BattleGround.umap
+[2017.09.15-16.40.46:536][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround_BuiltData" FILE="E:/proyectos/Battle_tank/BattleTank/Content/BattleGround_BuiltData.uasset" SILENT=true
+[2017.09.15-16.40.46:549][399]LogSavePackage: Save=11.85ms
+[2017.09.15-16.40.46:549][399]LogSavePackage: Moving 'E:/proyectos/Battle_tank/BattleTank/Saved/BattleGround_BuiltData01AED5D64352CF7530D1B2B5D7FBBEA6.tmp' to 'E:/proyectos/Battle_tank/BattleTank/Content/BattleGround_BuiltData.uasset'
+[2017.09.15-16.40.46:550][399]LogSavePackage: Display: Finished SavePackage E:/proyectos/Battle_tank/BattleTank/Content/BattleGround_BuiltData.uasset
+[2017.09.15-16.40.46:557][399]LogFileHelpers: Saving map 'BattleGround' took 0.661
+[2017.09.15-16.40.46:558][399]Cmd: MAP LOAD FILE="E:/proyectos/Battle_tank/BattleTank/Content/BattleGround.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.15-16.40.46:569][399]LightingResults: New page: Diseñar la iluminación
+[2017.09.15-16.40.46:570][399]LoadErrors: New page: Cargando mapa: BattleGround.umap
+[2017.09.15-16.40.46:572][399]MapCheck: New page: Revisión del mapa
+[2017.09.15-16.40.46:572][399]LightingResults: New page: Diseñar la iluminación
+[2017.09.15-16.40.46:627][399]LogAIModule: Creating AISystem for world BattleGround
+[2017.09.15-16.40.46:633][399]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.15-16.40.46:668][399]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.15-16.40.46:730][399]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61,097ms to complete.
+[2017.09.15-16.40.46:730][399]LogFileHelpers: Loading map 'BattleGround' took 0.173
+[2017.09.15-16.40.46:762][400]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.15-16.41.26:049][162]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BattleTank
+[2017.09.15-16.41.26:049][162]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.09.15-16.41.26:049][162]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.09.15-16.41.26:049][162]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.09.15-16.41.26:066][163]LogTemp: BranchPath = DESKTOP-L5LS488/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-L5LS488/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.09.15-16.41.26:066][163]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\nacho\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.09.15-16.41.35:033][699]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.15-16.42.04:294][863]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BattleTank
+[2017.09.15-16.42.04:294][863]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.09.15-16.42.04:294][863]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.09.15-16.42.04:295][863]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.09.15-16.42.04:295][863]LogTemp: BranchPath = DESKTOP-L5LS488/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-L5LS488/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.09.15-16.42.04:320][865]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\nacho\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.09.15-16.42.15:699][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.15-16.42.18:241][333]Cmd: DELETE
+[2017.09.15-16.42.18:241][333]Cmd: ACTOR DELETE
+[2017.09.15-16.42.18:245][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.09.15-16.42.18:255][333]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.09.15-16.42.52:875][643]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2017.09.15-16.42.52:904][643]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.09.15-16.42.52:952][643]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.09.15-16.42.53:009][643]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.09.15-16.42.53:047][643]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2017.09.15-16.42.53:092][643]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.09.15-16.42.53:112][643]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.09.15-16.42.53:138][643]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.09.15-16.42.53:169][643]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.09.15-16.42.53:202][643]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2017.09.15-16.42.53:231][643]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.09.15-16.42.53:265][643]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.09.15-16.42.53:294][643]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.09.15-16.43.00:564][ 68]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.09.15-16.43.00:583][ 68]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.09.15-16.46.51:860][498]Cmd: DELETE
+[2017.09.15-16.46.51:860][498]Cmd: ACTOR DELETE
+[2017.09.15-16.46.51:860][498]LogEditorActor: Deleted Actor: Landscape
+[2017.09.15-16.46.51:880][498]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.09.15-16.47.40:764][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround" FILE="E:/proyectos/Battle_tank/BattleTank/Content/BattleGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.15-16.47.40:856][840]LogSavePackage: Save=70.04ms
+[2017.09.15-16.47.40:856][840]LogSavePackage: Moving 'E:/proyectos/Battle_tank/BattleTank/Saved/BattleGround9F2BFD61418996F79EB5EBAE96A61AC2.tmp' to 'E:/proyectos/Battle_tank/BattleTank/Content/BattleGround.umap'
+[2017.09.15-16.47.40:861][840]LogSavePackage: Display: Finished SavePackage E:/proyectos/Battle_tank/BattleTank/Content/BattleGround.umap
+[2017.09.15-16.47.40:884][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround_BuiltData" FILE="E:/proyectos/Battle_tank/BattleTank/Content/BattleGround_BuiltData.uasset" SILENT=true
+[2017.09.15-16.47.40:905][840]LogSavePackage: Save=13.47ms
+[2017.09.15-16.47.40:905][840]LogSavePackage: Moving 'E:/proyectos/Battle_tank/BattleTank/Saved/BattleGround_BuiltData8DA676264AFCAE7E8E364987514FF48F.tmp' to 'E:/proyectos/Battle_tank/BattleTank/Content/BattleGround_BuiltData.uasset'
+[2017.09.15-16.47.40:906][840]LogSavePackage: Display: Finished SavePackage E:/proyectos/Battle_tank/BattleTank/Content/BattleGround_BuiltData.uasset
